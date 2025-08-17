@@ -1,6 +1,7 @@
 ## Архитектура
 <img width="618" height="693" alt="image" src="https://github.com/user-attachments/assets/9df7fcad-d9c6-4561-a3c0-4350498fbc7d" />
 <br>
+
 ## Настройка файлового сервера и монтирование директории
 1. Создаем пользователя smbuser на VM-01
    ```console
